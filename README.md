@@ -1,7 +1,9 @@
 # Sketch.js
 
-Sketch.js is an easy-to-use jQuery plugin that allows you to create canvases upon
- which visitors can draw. The code is partially inspired by <a href='http://www.williammalone.com/articles/create-html5-canvas-javascript-drawing-app/'>William Malone's drawing app tutorial</a> as well as <a href='http://canvaspaint.org'>CanvasPaint</a>.
+this version of sketch.js is customized by dwerty_weird. including fix for :-
+tablet touch function;
+also improvised version of eraser;
+example to reload saved dataURL file back into canvas for re edit.
 
 ## Installation
 
